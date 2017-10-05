@@ -1,6 +1,6 @@
 {
   "name": "texas-weather-connection",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Retrieve data collected by the Texas Weather Connection (http://twc.tamu.edu/)",
   "license": "MIT",
   "repository": "blindman/texas-weather-connection",
